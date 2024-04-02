@@ -1,2 +1,2 @@
-# RL_DM
-Using Reinforcement Learning algorithms in Decision Making
+# EasyRL
+Basic implementations of some classic Reinforcement Learning Algorithms. Standalone. Straight from the papers.
