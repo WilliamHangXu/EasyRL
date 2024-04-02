@@ -1,2 +1,2 @@
 # EasyRL
-Basic implementations of some classic Reinforcement Learning Algorithms. Standalone. Straight from the papers.
+Simple implementations of some classic Reinforcement Learning algorithms using PyTorch. Standalone. Straight from the papers.
